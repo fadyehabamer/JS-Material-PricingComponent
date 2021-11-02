@@ -1,2 +1,2 @@
-# Pricing-Cards-Customize
- Using Css3 with Custom Button
+# JavaScript Material Pricing Component
+> Toggle Text Using JS
